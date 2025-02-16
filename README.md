@@ -12,7 +12,7 @@ I'm a passionate software developer student with a focus on building scalable an
 ## 🛠️ Technologies & Tools
 - Programming Languages: JavaScript, TypeScript, Java and C#
 - Frontend: React, Angular, HTML, CSS
-- Backend: Node.js, ASP.net
+- Backend: Node.js
 - Databases: MySQL, PostgreSQL, MongoDB, SQLServer
 - Others: Git
 
